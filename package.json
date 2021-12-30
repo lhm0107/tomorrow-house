@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "tomorrow-house",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "node-sass",
+    "sass": "node-sass -wr styles/main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhm0107/tomorrow-house.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhm0107/tomorrow-house/issues"
+  },
+  "homepage": "https://github.com/lhm0107/tomorrow-house#readme",
+  "description": ""
+}
